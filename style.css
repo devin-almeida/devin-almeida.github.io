@@ -9,7 +9,5 @@ h1 {
 }
 
 p {
-  margin: auto ;
-  padding: 25px;
-  width: 1000px;
+  text-align: center;
 }
